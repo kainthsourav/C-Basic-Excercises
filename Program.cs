@@ -7,6 +7,7 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
+          
             Console.WriteLine("Enter numbers sperated by a hyphen ");
             var data = Console.ReadLine();
 
